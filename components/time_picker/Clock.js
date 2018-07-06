@@ -1,4 +1,5 @@
-import React, { Component, PropTypes } from 'react';
+import PropTypes from 'prop-types';
+import React, { Component } from 'react';
 import CssTransitionGroup from 'react-addons-css-transition-group';
 import { ZoomIn, ZoomOut } from '../animations';
 import time from '../utils/time.js';
