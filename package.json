@@ -79,7 +79,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.4.1",
     "react-addons-css-transition-group": "^15.4.1",
-    "react-css-themr": "david-slayte/react-css-themr#react-16v2",
+    "react-css-themr": "git+https://github.com/slayte/react-css-themr#slayte-1.7.1-react16",
     "react-dom": "^16.4.1",
     "react-transform-catch-errors": "^1.0.2",
     "react-transform-hmr": "^1.0.4",
